@@ -5,14 +5,28 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsa890&label=Profile%20views&color=0e75b6&style=flat" alt="aqsa890" /> </p>
 
-- 💬 Ask me about **💡 HTML | CSS | JavaScript | 📱 Flutter | Dart 🎨 Figma**
+<h3>💬 Ask me about</h3>
+<ul>
+  <li>💡 HTML | CSS | JavaScript</li>
+  <li>📱 Flutter | Dart</li>
+  <li>🎨 Figma</li>
+</ul>
 
-- 📫 How to reach me **aksawadood@gmail.com**
+<h3>📫 Reach me out at</h3>
+<ul>
+  <li><a href="mailto:aksawadood@gmail.com">aksawadood@gmail.com</a></li>
+</ul>
 
-- ⚡ Fun fact **I consider browser dev tools my second home. 🏠  My debugging skills are powered by ☕ and late-night inspiration.  When I’m not coding, you’ll find me with a paintbrush in hand, bringing colors to life on canvas! 🎨✨ Debugging and blending paint—both require creativity and patience! 😊**
+<h3>⚡ Fun facts</h3>
+<ul>
+  <li>I consider browser dev tools my second home. 🏠</li>
+  <li>My debugging skills are powered by ☕ and late-night inspiration.</li>
+  <li>When I’m not coding, you’ll find me with a paintbrush in hand, bringing colors to life on canvas! 🎨✨ Debugging and blending paint—both require creativity and patience! 😊</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <li><a href="https://www.linkedin.com/in/~-aqsa-3149782a2">https://www.linkedin.com/in/~-aqsa-3149782a2</a></li>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
