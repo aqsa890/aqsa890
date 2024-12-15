@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aksawadood@gmail.com**
 
-- ⚡ Fun fact **I consider browser dev tools my second home. 🏠**
+- ⚡ Fun fact **I consider browser dev tools my second home. 🏠  My debugging skills are powered by ☕ and late-night inspiration.  When I’m not coding, you’ll find me with a paintbrush in hand, bringing colors to life on canvas! 🎨✨ Debugging and blending paint—both require creativity and patience! 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
