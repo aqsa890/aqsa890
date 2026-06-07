@@ -1,76 +1,79 @@
-<h1 align="center">Hi 👋, I'm Aqsa</h1>
-<h3 align="center">Software Developer | UI/UX Designer | Flutter & Web Enthusiast</h3>
-<h4 align="center">I bring ideas to life through clean code, thoughtful design, and user-focused interfaces.</h4>
+<h1 align="center">Aqsa</h1>
+<p align="center">
+  <strong>Full-Stack Developer &nbsp;·&nbsp; UI/UX Designer &nbsp;·&nbsp; DevOps Learner</strong><br/>
+  <sub>Building clean products — from pixel-perfect UIs to containerized, automated backends.</sub>
+</p>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsa890&label=Profile%20views&color=0e75b6&style=flat" alt="aqsa890" /> </p>
-
----
-
-### 🚀 Tech & Design Stack
-
-- **💙 Flutter & Dart** – Cross-platform mobile development
-- **🎨 UI/UX Design** – Prototyping and wireframing using **Figma**
-- **🌐 Web Development** – **HTML5**, **CSS3**, **JavaScript**
-- **🐘 PostgreSQL** – Database design and integration
-- **⚙ FastAPI** – High-performance backend APIs in Python
-- **🌍 Full-Stack PHP** – Secure, scalable backend & frontend development
-- **🧰 Tools** – Postman, SoapUI, Firebase, Supabase, Git, GitHub
-
----
-
-### 💬 Ask Me About
-
-- 📱 Flutter app development
-- 🧑‍🎨 UI/UX Design and Figma prototyping
-- 🧪 Testing APIs with Postman & SoapUI
-- 💾 PostgreSQL and Database schema design
-- 🔧 FastAPI-based REST APIs
-- 🌐 Full-stack PHP projects
-
----
-
-### 📫 Reach Me At
-
-- 📧 [aksawadood@gmail.com](mailto:aksawadood@gmail.com)
-
----
-
-### ⚡ Fun Facts
-
-- Dev tools feel like home. 🏠
-- Debugging = Coffee + Late night + Curiosity ☕💻
-- Outside of code, I'm an artist with a paintbrush. 🎨✨
-
----
-
-### 🤝 Connect With Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/~-aqsa-3149782a2)
-
----
-
-### 🛠 Languages and Tools
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="fastapi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/S/soap-ui-logo-6DC74708CA-seeklogo.com.png" alt="soapUI" width="40" height="40"/>
+<p align="center">
+  <a href="mailto:aksawadood@gmail.com"><img src="https://img.shields.io/badge/Email-aksawadood%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/aqsa-3149782a2"><img src="https://img.shields.io/badge/LinkedIn-Aqsa-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=aqsa890&label=views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠 Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqsa890&show_icons=true&locale=en&layout=compact" alt="aqsa890" /></p>
+**Mobile & Frontend** — Flutter · Dart · HTML5 · CSS3 · JavaScript · Figma  
+**Backend & DB** — FastAPI · PHP · PostgreSQL · Firebase · Supabase  
+**DevOps (actively learning)** — Docker · Docker Compose · GitHub Actions · Nginx · Linux/Bash  
+**Testing** — Postman · SoapUI
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aqsa890&show_icons=true&locale=en" alt="aqsa890" /></p>
+---
+
+## ☁️ DevOps Focus
+
+Currently deepening my DevOps skills with a focus on:
+
+- **Containerization** — Dockerizing apps and writing multi-service `docker-compose.yml` setups
+- **CI/CD Pipelines** — Automating build, test & deploy workflows with **GitHub Actions**
+- **Server Management** — Linux administration, shell scripting, and Nginx reverse proxying
+- **Cloud-Ready Architecture** — Deploying to cloud environments with proper environment configs
+
+> _"Bridging the gap between writing code and shipping it reliably."_
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" title="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" title="GitHub Actions"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" title="Nginx"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" title="Flutter"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" title="Dart"/>
+  <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="40" height="40" title="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" title="Figma"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" title="Firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40" title="Supabase"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" title="Postman"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqsa890&show_icons=true&locale=en&layout=compact&theme=default" />
+</p>
+<p>
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=aqsa890&show_icons=true&locale=en&count_private=true&theme=default" />
+</p>
+
+<br clear="both"/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqsa890&theme=default" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Coffee ☕ · Late nights 💻 · Relentless curiosity — and sometimes, painting. 🎨</sub>
+</p>
