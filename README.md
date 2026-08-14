@@ -2,7 +2,7 @@
 
   <!-- Main Custom Styled Banner -->
   <a href="https://github.com/aqsa890">
-    <img src="./aqsa_banner.jpg" alt="Aqsa - Full Stack & DevOps Specialist Banner" width="100%" style="border-radius: 14px; box-shadow: 0 8px 30px rgba(236, 72, 153, 0.4);" />
+    <img src="./aqsa_banner_new.jpg" alt="Aqsa - Full Stack & DevOps Specialist Banner" width="100%" style="border-radius: 14px; box-shadow: 0 8px 30px rgba(236, 72, 153, 0.4);" />
   </a>
 
   <br/><br/>
